@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+##Hi, Am Jackton Auko, a tech enthusiast and full stack developer
